@@ -1,0 +1,19 @@
+.orange, .green, .white{
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+    border: 1px solid black
+}
+.orange{
+    background-color: orange;
+    border-right: 1px solid white;
+}
+.white{
+    background-color: white;
+    border-left:1px solid white;
+    border-right: 1px solid white;
+}
+.green{
+    background-color: green;
+    border-left: 1px solid white;
+}
