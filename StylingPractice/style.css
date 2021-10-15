@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color: whitesmoke;
+    font-style: italic;
+    
+    
+        
+    
+}
+
+.green {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+
+}
+
+#red{
+    background-color: tomato;
+    text-align: right;
+
+}
+span{
+    color: turquoise;
+}
